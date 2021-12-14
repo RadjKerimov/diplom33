@@ -22,7 +22,19 @@
 ```php
   return new PDO("mysql:host=localhost; dbname=diplom3; charset=utf8", "root", "root");
 ```
-
+## Компоненты:
+```php
+  "require": {
+        "nikic/fast-route": "^1.3",
+        "php-di/php-di": "^6.3",
+        "delight-im/auth": "^8.3",
+        "kint-php/kint": "^3.3",
+        "tamtamchik/simple-flash": "^2.0",
+        "league/plates": "^3.4",
+        "aura/sqlquery": "^2.7",
+        "intervention/image": "^2.7"
+     }
+```
 
 ## Аккаунты пользователей из базы:
 - admin@ya.ru
