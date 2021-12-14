@@ -32,9 +32,13 @@
         "tamtamchik/simple-flash": "^2.0",
         "league/plates": "^3.4",
         "aura/sqlquery": "^2.7",
-        "intervention/image": "^2.7"
      }
 ```
+## Собственные компоненты:
+  - Images
+  - MyClass
+  - QueryBuilder
+  - Role
 
 ## Аккаунты пользователей из базы:
 - admin@ya.ru
